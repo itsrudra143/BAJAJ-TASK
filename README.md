@@ -50,9 +50,9 @@ This project is a REST API that processes an array of data and returns a structu
   ```json
   {
     "is_success": true,
-    "user_id": "rudraksh_kpr_17091999",
-    "email": "rudraksh746.be22@chitkara.edu.in",
-    "roll_number": "2210990746",
+    "user_id": "rudrakshi_sharma",
+    "email": "rudraksh747.be22@chitkara.edu.in",
+    "roll_number": "2210990747",
     "odd_numbers": ["1"],
     "even_numbers": ["334", "4"],
     "alphabets": ["A", "R"],
@@ -75,7 +75,7 @@ To get a local copy up and running, follow these simple steps.
 1.  Clone the repo:
 
     ```sh
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/itsrudra143/BAJAJ-TASK
     ```
 
 2.  Install NPM packages:
