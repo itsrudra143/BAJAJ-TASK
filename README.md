@@ -51,7 +51,7 @@ This project is a REST API that processes an array of data and returns a structu
   {
     "is_success": true,
     "user_id": "rudrakshi_sharma",
-    "email": "rudraksh747.be22@chitkara.edu.in",
+    "email": "rudrakshi747.be22@chitkara.edu.in",
     "roll_number": "2210990747",
     "odd_numbers": ["1"],
     "even_numbers": ["334", "4"],
